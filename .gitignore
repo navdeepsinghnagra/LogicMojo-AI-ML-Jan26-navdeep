@@ -1,0 +1,57 @@
+# =========================
+# Temporary files
+# =========================
+temp/
+tmp/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+**/.DS_Store
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDEs / Editors
+# =========================
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Vim
+*.swp
+*.swo
+
+# =========================
+# Optional (recommended)
+# =========================
+# Logs
+*.log
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
